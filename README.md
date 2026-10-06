@@ -1,8 +1,8 @@
 # AI-Powered GTM Engine
 
-Three connected n8n workflows that research target accounts, score and route inbound leads, and draft outreach that a human approves before anything is sent. Built by Melissa [[FILL: last name]], a B2B SaaS demand generation and ABM leader, as a working portfolio of AI applied to go-to-market.
+Three connected n8n workflows that research target accounts, score and route inbound leads, and draft outreach that a human approves before anything is sent. Built by Melissa Bradbury, a B2B SaaS demand generation and ABM leader, as a working portfolio of AI applied to go-to-market.
 
-**[View the portfolio site](https://YOUR-USERNAME.github.io/ai-gtm-engine/)** · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE/)
+**[View the portfolio site](https://YOUR-USERNAME.github.io/ai-gtm-engine/)** · [LinkedIn](https://www.linkedin.com/in/melissabradbury/)
 
 ![How the three workflows connect](assets/gtm-engine-flow.svg)
 
@@ -10,7 +10,7 @@ Three connected n8n workflows that research target accounts, score and route inb
 
 | # | Workflow | Business problem | Result |
 | --- | --- | --- | --- |
-| 1 | [ABM Account Research Agent](workflows/01-account-research/) | Reps spend 30–45 minutes (estimate) researching each target account before outreach | [[FILL: e.g. ~1 minute per evidence-based brief]] |
+| 1 | [ABM Account Research Agent](workflows/01-account-research/) | Reps spend 30–45 minutes (estimate) researching each target account before outreach | ~1 minute per evidence-based brief |
 | 2 | [Inbound Lead Scoring and Routing](workflows/02-lead-scoring-routing/) | Hot leads wait in a queue while reps work cold ones | [[FILL: e.g. form to BDR alert in under 10 seconds]] |
 | 3 | [Outreach Generator with Human Approval](workflows/03-outreach-approval/) | Generic outreach, or AI outreach nobody trusts to send | [[FILL: e.g. X of Y AI drafts approved without edits]] |
 

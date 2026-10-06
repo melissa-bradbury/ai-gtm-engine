@@ -6,9 +6,9 @@ Turns a list of target accounts into evidence-based account briefs, scored again
 
 ## Watch the demo
 
-<div style="position:relative;padding-bottom:56.25%;height:0;margin-bottom:1em;"><iframe src="https://www.loom.com/embed/LOOM-VIDEO-ID-1" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;margin-bottom:1em;"><iframe src="https://www.loom.com/embed/e341022ddd9f47fa893e195b33cc0354" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 
-[Watch on Loom](https://www.loom.com/share/LOOM-VIDEO-ID-1)
+[Watch on Loom](https://www.loom.com/share/e341022ddd9f47fa893e195b33cc0354)
 
 ## The problem
 
@@ -36,10 +36,10 @@ An agent that researches every account marked "New" in a target account list and
 
 | Metric | Result |
 | --- | --- |
-| Time per account brief | [[FILL: e.g. ~50 seconds]] vs. an estimated 30–45 minutes manually |
-| Accounts researched per run | [[FILL: 6 in the demo]] |
-| AI cost per brief | [[FILL: e.g. under one cent]] |
-| Briefs rated low confidence | [[FILL: e.g. 1 of 6, a site that blocked automated requests]] |
+| Time per account brief | ~1 minute vs. an estimated 30–45 minutes manually |
+| Accounts researched per run | 5 in the demo |
+| AI cost per brief | under one cent |
+| Briefs rated low confidence | 0 of 6 blocked automated requests |
 
 ## Screenshots
 

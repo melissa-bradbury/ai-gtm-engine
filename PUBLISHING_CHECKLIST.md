@@ -31,7 +31,7 @@ Before adding each `workflow.json`, open it in a text editor and search for your
 
 1. Repo Settings → Pages.
 2. Under Build and deployment, choose Deploy from a branch, branch `main`, folder `/ (root)`. Save.
-3. After a minute or two the site is live at `https://YOUR-USERNAME.github.io/ai-gtm-engine/`.
+3. After a minute or two the site is live at `https://melissa-bradbury.github.io/ai-gtm-engine/`.
 
 ## 5. Check it
 

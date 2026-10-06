@@ -36,8 +36,8 @@ A lead pipeline with a public form at the front, an AI judgment layer in the mid
 
 | Metric | Result |
 | --- | --- |
-| Form submission to BDR Slack alert | [[FILL: e.g. ~8 seconds]] |
-| Test leads correctly tiered | [[FILL: e.g. 10 of 10]] |
+| Form submission to BDR Slack alert | ~8 seconds |
+| Test leads correctly tiered | 10 of 10 |
 | Tier mix across 10 test leads | [[FILL: e.g. 4 hot · 2 warm or nurture · 4 disqualified]] |
 | Competitor and student leads | [[FILL: disqualified automatically]] |
 

@@ -3,17 +3,17 @@ layout: default
 title: AI-Powered GTM Engine
 ---
 
-Three connected n8n workflows that research target accounts, score and route inbound leads, and draft outreach that a human approves before anything is sent. Built by Melissa [[FILL: last name]], a B2B SaaS demand generation and ABM leader with 20+ years in demand gen, ABM, marketing operations and BDR leadership.
+Three connected n8n workflows that research target accounts, score and route inbound leads, and draft outreach that a human approves before anything is sent. Built by Melissa Bradbury, a B2B SaaS demand generation and ABM leader with 20+ years in demand gen, ABM, marketing operations and BDR leadership.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE/) · [View the code](https://github.com/YOUR-USERNAME/ai-gtm-engine)
+[Connect on LinkedIn](https://www.linkedin.com/in/melissabradbury/) · [View the code](https://github.com/melissa-bradbury/ai-gtm-engine)
 
 ![How the three workflows connect](assets/gtm-engine-flow.svg)
 
 ## 1 · ABM Account Research Agent
 
-Turns a list of target accounts into evidence-based account briefs, scored against the ICP, in about [[FILL: time]] each instead of an estimated 30–45 minutes of manual research.
+Turns a list of target accounts into evidence-based account briefs, scored against the ICP, in about 1 minute each instead of an estimated 30–45 minutes of manual research.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;margin-bottom:1em;"><iframe src="https://www.loom.com/embed/LOOM-VIDEO-ID-1" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;margin-bottom:1em;"><iframe src="https://www.loom.com/embed/e341022ddd9f47fa893e195b33cc0354" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 
 **[Read the case study](workflows/01-account-research/)**
 
