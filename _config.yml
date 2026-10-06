@@ -1,0 +1,5 @@
+title: AI-Powered GTM Engine
+description: Three connected n8n workflows for account research, lead scoring and routing, and AI-drafted outreach with human approval
+theme: jekyll-theme-cayman
+exclude:
+  - PUBLISHING_CHECKLIST.md
