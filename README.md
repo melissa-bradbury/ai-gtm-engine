@@ -31,6 +31,6 @@ n8n · OpenAI gpt-5-mini · Google Sheets · Slack · Gmail
 
 ## Run it yourself
 
-[SETUP.md](SETUP.md) covers credentials, the Google Sheet structure, the ICP definition the prompts use, and test data. Each workflow folder contains a `workflow.json` you can import into n8n (Workflows → Import from File).
+[SETUP.md](SETUP.md) covers credentials, the Google Sheet structure, the ICP definition the prompts use, and test data. 
 
 The product being sold, Northwind Revenue Cloud, is fictional. Target accounts are real public companies so the research agent has real websites and news to read. All contacts in the test data are invented.

@@ -16,9 +16,9 @@ Each workflow folder expects these files. Use these exact names, or update the i
 
 | Folder | Files |
 | --- | --- |
-| workflows/01-account-research | workflow.json · screenshots/canvas.png · screenshots/brief-row.png · screenshots/slack-post.png |
-| workflows/02-lead-scoring-routing | workflow.json · screenshots/canvas.png · screenshots/form.png · screenshots/slack-alert.png · screenshots/lead-log.png |
-| workflows/03-outreach-approval | workflow.json · screenshots/canvas.png · screenshots/approval-email.png · screenshots/gmail-draft.png |
+| workflows/01-account-research |  · screenshots/canvas.png · screenshots/brief-row.png · screenshots/slack-post.png |
+| workflows/02-lead-scoring-routing |  · screenshots/canvas.png · screenshots/form.png · screenshots/slack-alert.png · screenshots/lead-log.png |
+| workflows/03-outreach-approval | · screenshots/canvas.png · screenshots/approval-email.png · screenshots/gmail-draft.png |
 
 Before adding each `workflow.json`, open it in a text editor and search for your email address, Google Sheet ID, Slack channel IDs and webhook URLs. Credentials themselves are never included in an n8n export, but those identifiers can be.
 

@@ -76,5 +76,4 @@ Rules:
 
 ## Files
 
-- `workflow.json`: import into n8n via Workflows → Import from File. You'll need your own OpenAI, Google Sheets and Gmail credentials.
-- Test data and sheet structure: see [SETUP.md](../../SETUP.md).
+ Test data and sheet structure: see [SETUP.md](../../SETUP.md).

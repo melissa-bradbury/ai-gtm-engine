@@ -43,9 +43,4 @@ Common pains: new-rep ramp longer than 5 months; inconsistent messaging across r
 Not a fit: companies under 50 employees; consumer, local-services or healthcare-practice businesses; students; job seekers; competitors (sales enablement vendors).
 </pre>
 
-## Importing a workflow
 
-1. In n8n, go to Workflows → Import from File and choose the `workflow.json` from a workflow folder.
-2. Open each node that shows a credential warning and select your own credential.
-3. In every Google Sheets node, re-select your GTM Engine document and the right tab.
-4. Run workflow 1, then workflow 2's mock-lead test, then workflow 3.
